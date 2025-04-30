@@ -35,6 +35,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 Author Info
 
 Name: Smruti Rout
+
 GitHub: https://github.com/smruti1979/Crop_Recommendation.git
 
 Feel free to customize the technical details, setup instructions, and contact information to align with your project's specific attributes and your personal preferences.
